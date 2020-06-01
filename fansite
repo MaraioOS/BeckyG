@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Becky G - Fan site</title>
+    <link rel="stylesheet" href="css/estilos.css"> 
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/ee0cd78350.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+    <center><img src="https://www.iambeckyg.com/assets/img/logo-2.png"></center>
+    <nav class="menu">
+        <ul>
+            <li> <img src="https://www.iambeckyg.com/assets/img/logo-2.png" width="150px"> </li>
+        
+
+                        <li><a href="#Bio">B I O</a></li>
+                        <li><a href="#lancamentos">Lançamentos</a></li>
+                        <li><a href="indexb.html">They Ain't Ready</a></li>
+                
+                        <li><a href="https://www.youtube.com/channel/UCgtNC51EUSgcZ6kKyVoPxKA"> <i class="fab fa-youtube"></i> </a></li>
+                        <li><a href="https://twitter.com/iambeckyg"> <i class="fab fa-twitter"></i> </a></li>
+                        <li><a href="https://www.instagram.com/iambeckyg/"> <i class="fab fa-instagram"> </i> </a></li>
+                        <li><a href="https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3?si=3aYrWCo9RIemtKGtcwyDWA"> <i class="fab fa-spotify"></i> </a></li>
+                        <li><a href="https://itunes.apple.com/us/artist/becky-g/550411604"> <i class="fab fa-apple"></i> </a></li>
+        </ul>  
+
+        
+    </nav>
+    </header>
+
+    
+
+    <section id="Bio" class="Bio">
+</br>
+</br>
+        <h1> Quem é becky G?</h1>
+        <figure class="avatar">
+            <img src="https://cdn.smehost.net/sonymusicpt-ptprod/wp-content/uploads/2020/01/Photo1-BG1.jpg" alt="Becky">
+          </figure>
+        <p>Rebbeca Marie Gomez (Inglewood, 2 de março de 1997), mais conhecida como Becky G, é uma cantora, compositora e atriz norte americana de origem mexicana, que ganhou reconhecimento pela primeira vez em 2011, quando começou a postar vídeos na internet de si mesma fazendo versões covers de músicas populares. Um de seus vídeos chamou a atenção do produtor Dr. Luke, que posteriormente lhe ofereceu um contrato com a Kemosabe Records e RCA Records . Enquanto trabalhava em seu álbum de estréia, Gomez colaborou com os artistas como will.i.am, Cody Simpson e Cher Lloyd. Seu primeiro single oficial, "Becky from the Block" (2013), recebeu uma recepção positiva após seu lançamento. Ela lançou em seguida seu primeiro extended play (EP), Play It Again (2013), no final do mesmo ano. Seu segundo single, "Can't Get Enough" (2014), que continha a participação vocal do rapper Pitbull e atingiu o topo da parada Latin Rhythm Airplay dos Estados Unidos.</p>
+        </br>
+        <p>Rebbeca Marie Gomez, nasceu em 2 de março de 1997 na cidade de Inglewood, no sul da Califórnia. Ela é filha de Alejandra "Alex" e Francisco "Frank" Gomez. Todos os seus quatro avós são naturais de Jalisco, México, enquanto seus pais e a maioria de sua família nasceram nos EUA. Gomez tem dois irmãos e uma irmã mais nova. E uma meia-irmã com dezoito anos de idade. Gomez cresceu no Moreno Valley, e aos nove anos de idade, sua família perdeu a casa e mudou-se para a garagem da casa dos seus avós devido a problemas financeiros. Gomez começou a trabalhar em meio período para ajudar a sua família, nas despesas de casa, fazendo comerciais e locução. Ela tinha o que descreveu como uma "crise de meia-idade" quando tinha nove anos e decidiu que queria seguir uma carreira musical. Em uma entrevista, ela detalhou o momento: "Essa foi literalmente a minha crise de meia-idade quando eu tinha nove anos. Foi quando eu senti como 'OK, eu preciso arrumar minha vida. O que eu vou fazer?' Eu entendi isso comigo mesma em uma idade mais jovem do que uma garota comum, porque na época minha família havia perdido nossa casa. Eu sempre fui mais madura para minha idade, então eu já estava entendendo o que eles estavam passando, e pensei 'Como posso ajudá-los?'". Ela inicialmente frequentou uma escola pública, mas teve que ter aulas domiciliares devido a problemas com o bullying. Ela afirmou que em um momento ela foi atacada por várias meninas enquanto estava no banheiro, e era um alvo frequente devido aos seu trabalhos na indústria do entretenimento.</p>
+    </section>
+</br>
+</br>
+    <section class="music">
+        <center><h1> Musicas</h1>
+        <div clas="container">
+       <iframe src="https://open.spotify.com/embed/playlist/5iA9LnSYAp11ob8ldZlgOR" width="500" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"> #document </iframe></center> 
+
+    </section>
+</br>
+</br>
+    <section id="lancamentos" class="lancamentos">
+       <center><h1> Lançamentos & Colaborações</h1>
+        <h3>Confira aqui o ultimo lançamento e a </br> ultima colaboração de Becky G </h3>
+       </br>
+        <h2> "Jolene" </h2> 
+        <p> JÁ DISPONIVEL.  Confira a música de Chiquis com a participação de Becky G</p>
+    </br>
+
+        <div class="grid">
+
+            <figure>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/njHKbsXf-54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+            </figure> 
+             <figure>
+                <iframe src="https://open.spotify.com/embed/track/3WKYap1V0mdQvsPsGwFxMH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            </figure>
+            </center>
+        </div>
+    </section>
+</br>
+</br>
+    <section class="theyaintready">
+
+            <center><img src="https://www.iambeckyg.com/assets/img/slide/tar-img.jpg" width="1253" height="600">
+                    
+                
+                <a href="indexb.html"><input type="button" onclick="bio" value="Confira"> </center></a> 
+
+
+
+    </section>
+</br>
+</br>
+</br>
+</br>
+    <section id="shop" class="shop">
+        <center><h1>Shop</h1>
+        <a href="https://shop.iambeckyg.com"><img src="https://media1.giphy.com/media/ckvvLRwOBViSgsaACR/giphy.gif"></a></center>
+   </section> 
+       <section class="tt">
+  <p>____________________________________________________________________________________________________</p> 
+        </section>  
+
+    <section id=contato class="contato">
+        <p>Site production by</p>
+        <a target="_blank" href="https://twitter.com/Marco_antoniii">
+            <i class="fab fa-twitter"></i> @Marco_antoniii
+        </a>
+    </section>
+
+</body>
+</html>

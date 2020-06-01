@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    align-items: center;
+    background-color: black;
+}
+
+header {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    background-color: transparent;
+    position: fixed;
+    width: 100vw;
+    top: 0;
+}
+
+.menu .prcp, .redes {
+    display: contents;
+    justify-content: right;
+}
+
+.menu .becky {
+    display: flex;
+    justify-content: left;
+    margin-left: 2em;
+    margin-right: 1em;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.menu a {
+    display: block ;
+    padding: 10px 20px;
+    transition: background-color 1s, color 0.5s;
+}
+  
+.menu .prcp a:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.ready center {
+    color: rgb(255, 166, 0);
+    font-size: 5em;
+}
+
+.ready2 {
+    font-size: 2em;
+}
+
+.legenda {
+    font-size: 1.7em;
+    background-color: tomato;
+}
+
+.creditos {
+    margin-left: 294px;
+    font-size: 1.2em;
+}

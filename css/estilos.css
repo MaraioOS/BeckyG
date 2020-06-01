@@ -43,7 +43,7 @@ header {
     display: flex;
     justify-content: left;
     margin-left: 2em;
-    margin-right: 1em;
+    margin-right: 0em;
 }
 
 .menu li {
@@ -77,6 +77,10 @@ header {
 .contato a {
     color: black;
     font-size: 5em;
+}
+
+.contato {
+    margin-left: 1em;
 }
 
 a {

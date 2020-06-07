@@ -16,7 +16,7 @@ header {
 
 .menu {
     background-color: transparent;
-    position: fixed;
+    position: absolute;
     width: 100vw;
     top: 0;
 }
